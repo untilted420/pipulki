@@ -1,0 +1,8 @@
+flutter_native_splash:
+  
+  color: "#42a5f5"
+  image: assets/photo/matule_me.png
+  android_12:
+ 
+    image: assets/photo/icon.png
+    color: "#42a5f5"
